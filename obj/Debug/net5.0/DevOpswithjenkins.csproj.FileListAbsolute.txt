@@ -1,0 +1,16 @@
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.exe
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.deps.json
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.runtimeconfig.json
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.runtimeconfig.dev.json
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.dll
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\ref\DevOpswithjenkins.dll
+D:\Assignments\Devops\2week\DevOpswithjenkins\bin\Debug\net5.0\DevOpswithjenkins.pdb
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.csproj.AssemblyReference.cache
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.AssemblyInfoInputs.cache
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.AssemblyInfo.cs
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.csproj.CoreCompileInputs.cache
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.dll
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\ref\DevOpswithjenkins.dll
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.pdb
+D:\Assignments\Devops\2week\DevOpswithjenkins\obj\Debug\net5.0\DevOpswithjenkins.genruntimeconfig.cache

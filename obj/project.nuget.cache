@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCLVcotucOrZx+CkrobAXkfY0h1kKyy/OIlpLBjdfLtp4WNQVPyMZUeLdUC+pOON8vcA+z2TtW/ZBuLLrJ+HSg==",
+  "dgSpecHash": "vPZ+sHfb5IUfzhixRWLbdqgbpn0HDR6mPtWXFsrFJLG+2KmnkXxb+QQKSuD6YMMElyYcUP69mhXtuF94pBlDBA==",
   "success": true,
   "projectFilePath": "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\DevOpswithjenkins.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\shivamkushwaha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
