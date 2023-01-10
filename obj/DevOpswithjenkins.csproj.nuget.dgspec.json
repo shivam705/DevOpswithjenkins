@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assignments\\Devops\\DevOpswithjenkins\\DevOpswithjenkins\\DevOpswithjenkins.csproj": {}
+    "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\DevOpswithjenkins.csproj": {}
   },
   "projects": {
-    "D:\\Assignments\\Devops\\DevOpswithjenkins\\DevOpswithjenkins\\DevOpswithjenkins.csproj": {
+    "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\DevOpswithjenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assignments\\Devops\\DevOpswithjenkins\\DevOpswithjenkins\\DevOpswithjenkins.csproj",
+        "projectUniqueName": "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\DevOpswithjenkins.csproj",
         "projectName": "DevOpswithjenkins",
-        "projectPath": "D:\\Assignments\\Devops\\DevOpswithjenkins\\DevOpswithjenkins\\DevOpswithjenkins.csproj",
+        "projectPath": "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\DevOpswithjenkins.csproj",
         "packagesPath": "C:\\Users\\shivamkushwaha\\.nuget\\packages\\",
-        "outputPath": "D:\\Assignments\\Devops\\DevOpswithjenkins\\DevOpswithjenkins\\obj\\",
+        "outputPath": "D:\\Assignments\\Devops\\2week\\DevOpswithjenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
